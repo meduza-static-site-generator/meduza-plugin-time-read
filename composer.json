@@ -1,7 +1,7 @@
 {
     "name": "meduza-static-site-generator/meduza-plugin-time-read",
     "description": "Plugin para calcular o tempo de leitura",
-    "type": "metapackage",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
