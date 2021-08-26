@@ -1,14 +1,23 @@
 {
     "name": "meduza-static-site-generator/meduza-plugin-time-read",
     "description": "Plugin para calcular o tempo de leitura",
-    "type": "library",
-    "license": "MIT",
+    "keywords": ["php8", "php", "static site generator", "static site", "plugin"],
+    "homepage": "https://github.com/meduza-static-site-generator/meduza-plugin-time-read/",
+    "readme": "README.md",
     "authors": [
         {
             "name": "Everton da Rosa",
-            "email": "everton3x@gmail.com"
+            "email": "everton3x@gmail.com",
+            "homepage": "https://everton3x.github.io",
+            "role": "developer"
         }
     ],
+    "support": {
+        "issues": "https://github.com/meduza-static-site-generator/meduza-plugin-time-read/issues",
+        "source": "https://github.com/meduza-static-site-generator/meduza-plugin-time-read/"
+    },
+    "type": "library",
+    "license": "MIT",
     "minimum-stability": "dev",
     "require": {}
 }
